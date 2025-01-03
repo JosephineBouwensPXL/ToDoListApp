@@ -146,3 +146,5 @@ C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Web\
 C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Web\obj\Debug\net8.0\ToDoListApp.Web.pdb
 C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Web\obj\Debug\net8.0\ToDoListApp.Web.genruntimeconfig.cache
 C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Web\obj\Debug\net8.0\ref\ToDoListApp.Web.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Web\obj\Debug\net8.0\ToDoListApp.Web.sourcelink.json
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Web\bin\Debug\net8.0\libman.json

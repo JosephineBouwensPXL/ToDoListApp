@@ -40,6 +40,7 @@ namespace ToDoListApp.Web
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 

@@ -4,10 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - TODO</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/ToDoListApp.Web.styles.css" asp-append-version="true" />
-    <span class="badge bg-warning text-dark"> @Model.IT</span>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  @*   <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+@*     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ToDoListApp.Web.styles.css" asp-append-version="true" /> *@
 </head>
 <body>
     <header>
@@ -30,7 +32,7 @@
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <li class="nav-item">
-                                TODO: Show number of todos
+                                @await Component.InvokeAsync("Badge")
                             </li>
                         </li>
                     </ul>
