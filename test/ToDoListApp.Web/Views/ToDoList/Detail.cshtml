@@ -1,0 +1,54 @@
+﻿@using ToDoListApp.Web.Models
+@model ToDoListDetailViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"]="Detail";
+}
+<div class="container">
+    <h1 class="display-4 text-center mb-3">List title - Detail</h1>
+
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="card my-1">
+                <div class="card-body">
+                    
+                        <h5 class="card-title">Item description</h5>
+                        <div class="form-check">
+                            <input class="form-check-input" />
+                            <label class="form-check-label"></label>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <form method="post">
+                        <div class="row mb-3">
+                            <label class="col-sm-3 col-form-label"></label>
+                            @* <div class="col-sm-6">
+                                <input class="form-control">
+                            </div> *@
+                            <div class="col-sm-3">
+                                <button class="btn btn-primary mb-2">Add item</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-12">
+            <a class="btn btn-outline-secondary" api-controller="ToDoList" api-action="Search">Back to search</a>
+        </div>
+    </div>
+
+</div>

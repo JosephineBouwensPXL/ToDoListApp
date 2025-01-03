@@ -1,0 +1,17 @@
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.Infrastructure.deps.json
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.Infrastructure.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.Infrastructure.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.AppLogic.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.Domain.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.AppLogic.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\bin\Debug\net8.0\ToDoListApp.Domain.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoList.C91474D3.Up2Date
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\refint\ToDoListApp.Infrastructure.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ToDoListApp.Infrastructure.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Infrastructure\obj\Debug\net8.0\ref\ToDoListApp.Infrastructure.dll

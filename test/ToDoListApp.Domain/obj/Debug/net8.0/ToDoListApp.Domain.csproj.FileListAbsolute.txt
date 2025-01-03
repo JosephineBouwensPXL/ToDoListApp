@@ -1,0 +1,11 @@
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\bin\Debug\net8.0\ToDoListApp.Domain.deps.json
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\bin\Debug\net8.0\ToDoListApp.Domain.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\bin\Debug\net8.0\ToDoListApp.Domain.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ToDoListApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ToDoListApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ToDoListApp.Domain.AssemblyInfo.cs
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ToDoListApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ToDoListApp.Domain.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\refint\ToDoListApp.Domain.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ToDoListApp.Domain.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\ToDoListApp_poging2\ToDoListApp.Domain\obj\Debug\net8.0\ref\ToDoListApp.Domain.dll
